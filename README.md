@@ -1,3 +1,3 @@
 # Win-releases
 
-Sulla destra, cliccare sulla voce sotto "Release"
+Sulla destra, cliccare sulla voce "WhoIsNext" sotto "Release".
